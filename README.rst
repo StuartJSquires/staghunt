@@ -13,7 +13,8 @@ staghunt
 
 
 Stag hunt is an evolutionary simulation of a stag hunt game.
-
+Currently, this is just a skeleton (only one class has been written). This is
+my first attempt at putting together a proper Python package.
 
 Features
 --------
